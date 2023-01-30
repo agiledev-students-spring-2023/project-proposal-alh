@@ -21,7 +21,7 @@ This software will be for college students taking courses where collaboration ou
 
 ### How?
 
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+
 
 Upon registering for the app, the user will go through a series of questions to create their profile:\
 \
